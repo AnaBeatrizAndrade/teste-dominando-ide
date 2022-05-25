@@ -19,10 +19,10 @@ public class Calculadora {
 		int multiplicacao = multiplicacao(a,b);
 		float divisao = divisao(a,b);
 		
-		System.out.println("soma: " + soma);
-		System.out.println("sub: " + subtracao);
-		System.out.println("mult: " + multiplicacao);
-		System.out.println("div: " + divisao);
+		System.out.println("Soma: " + soma);
+		System.out.println("Sub: " + subtracao);
+		System.out.println("Mult: " + multiplicacao);
+		System.out.println("Div: " + divisao);
 	}
 	
 	public static int soma(int a, int b) {
